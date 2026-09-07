@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "1.2.5"
+  version: "1.2.6"
 
 package:
   name: esi-shakelib
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/esi-shakelib/esi_shakelib-${{ version }}.tar.gz
-  sha256: 3f7ab9a7ea46db7292df6ca8a8879a424dcd19fe4e0b1cb1a179e3ed3a5c144d
+  sha256: ce9783c3582eb3f6442adb5b3fd997aa3e1aefbf7da6a56bb09a106a285ceed6
 
 build:
   number: 0
